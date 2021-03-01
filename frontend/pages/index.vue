@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1>Список ресторанов</h1>
+    <h1>Список Фрэймворков</h1>
     <div v-if="error">
       {{ error }}
     </div>
