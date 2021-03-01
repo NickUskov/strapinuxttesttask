@@ -1,10 +1,12 @@
-# Startup guid
-
+# Startup guide
 A quick description of your strapi application
 
 # №1
 cd frontend and npm install для установки зависимостей nuxtjs
 npm run develop для запуска strapi сервера
+Креденшиалы для strapi admin 
+email - test@test.ru
+pass - Test1234567
 
 # №2
 cd backend and npm install для установки зависимостей strapi
